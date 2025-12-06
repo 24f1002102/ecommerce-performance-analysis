@@ -1,3 +1,6 @@
+This analysis was assisted by Jules (https://chatgpt.com/codex/tasks)
+
+
 # E-Commerce Performance Analysis – 2024
 
 Author Contact: **24f1002102@ds.study.iitm.ac.in**
@@ -76,3 +79,14 @@ To reach the benchmark of 85, the company should:
 The business improved retention but remains **far below industry expectations**. The company must prioritize **proactive retention strategies** to remain competitive and profitable.
 
 # PR Test
+This PR includes:
+
+- Data analysis script (Python)
+- Visualization: retention trend vs benchmark
+- Dataset for Q1–Q4 performance
+- README.md containing:
+  - Key findings
+  - Business implications
+  - Recommendations: "implement targeted retention campaigns"
+  - Correct average of 70.45
+  - Author email: 24f1002102@ds.study.iitm.ac.in
